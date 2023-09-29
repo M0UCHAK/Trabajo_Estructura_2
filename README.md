@@ -32,8 +32,8 @@ para ejecutar este programa debemos tener en cuenta 3 factores importantes
     7. Mostrar todos los puntos de interés de un tipo: tendrás que buscar en el archivo csv 
     el tipo de punto de interés que quieres mostrar,en caso de estar te lo mostrara.
 
-    8.Importar puntos de interés y turistas desde archivos CSV: te pedirá ingresar el nombre del punto de interés que quieras importar 
-    y el nombre del archivo de los turistas para importar.
+    8.Importar puntos de interés y turistas desde archivos CSV: te pedirá ingresar el nombre del punto de interés 
+    que quieras importar y el nombre del archivo de los turistas para importar.
 
     9.Exportar puntos de interés y turistas a archivos CSV: te pedirá ingresar el nombre del punto de interés que quieras exportar 
     y el nombre del archivo de los turistas para importar.
